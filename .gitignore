@@ -1,0 +1,8 @@
+data/
+.temp/
+.cursor
+.claude
+__pycache__/
+*.pyc
+.mcp.json
+results/
